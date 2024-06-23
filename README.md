@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This is where I am going to create a version of Rock Paper Scissors to be played inside the console.
