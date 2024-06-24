@@ -18,4 +18,13 @@ function getComputerChoice() {
     console.log("num");
 }
 
-// 
+// Prompt for user to enter their value
+function getHumanChoice() {
+    const n = prompt("Rock, Paper or Scissors?");
+    return n;
+// If value is "rock", return "rock" as the value
+// If value is "paper", return "paper" as the value
+// If value is "scissors", return "scissors" as the value
+// If value is none of these, return null
+// Print the value
+}
